@@ -69,7 +69,7 @@ ______________________________________________________________________
 * Javascript
 * Python3
 * Django
-* PostgeSQL
+* PostgreSQL
 * GitHub
 * Heroku
 * Materialize
