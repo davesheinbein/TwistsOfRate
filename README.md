@@ -1,7 +1,7 @@
 # TwistsOfRate
 ### - Confessions of a Game Freak -
 
-View Website -
+Visit Website -
 [TwistsOfRate](https://twists-of-rate.herokuapp.com/)
 ______________________________________________________________________
 ## About
